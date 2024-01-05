@@ -10,6 +10,7 @@
     "watch-ts": "tsc -w",
     "dev": "ts-node-dev --respawn ./src/index.ts",
     "prepare": "husky install"
+    "build": "tsc"
   },
   "author": "Burak Sakalli",
   "license": "MIT",
