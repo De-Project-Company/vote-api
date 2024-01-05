@@ -12,7 +12,7 @@
     "prepare": "husky install",
     "build": "tsc"
   },
-  "author": "Burak Sakalli",
+  "author": "Phoenix",
   "license": "MIT",
   "keywords": [
     "voting poll"
